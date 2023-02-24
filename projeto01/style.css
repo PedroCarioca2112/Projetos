@@ -1,6 +1,18 @@
 @charset "UTF-8";
 
-h1{
-    font-size: large;
-    font-weight: bolder;
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: aqua;
+}
+
+main{
+    background-color: azure;
+}
+
+footer{
+    background-color: brown;
 }
