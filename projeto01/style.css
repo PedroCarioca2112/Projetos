@@ -55,7 +55,7 @@ hr{
 
 main{
     background: white;
-    height: 700px;
+    height: 600px;
     border-radius: 10px;
 }
 
@@ -81,7 +81,7 @@ div{
 #div3{
     top: 200px;
     left: 600px;
-    height: 500px;
+    height: 512px;
 }
 
 #div01{
@@ -100,7 +100,7 @@ div{
 
 #pq2{
     color: white;
-    background-color: white;
+    background-color: green;
     top: 141px;
     width: 290px;
     height: 150px;
@@ -108,16 +108,16 @@ div{
 
 #pq3{
     color: white;
-    background-color: white;
+    background-color: black;
     top: 230px;
     width: 290px;
     height: 160px;
 }
 
 #pq4{
-    color: white;
-    background-color: white;
+    background-color: red;
     top: 290px;
     width: 290px;
     height: 200px;
+    margin-top: 13px;
 }
