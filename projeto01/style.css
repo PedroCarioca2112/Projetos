@@ -89,3 +89,35 @@ div{
     top: 200px;
     height: 400px;
 }
+
+#pq1{
+    color: white;
+    background-color: white;
+    top: 230px;
+    width: 290px;
+    height: 160px;
+}
+
+#pq2{
+    color: white;
+    background-color: white;
+    top: 141px;
+    width: 290px;
+    height: 150px;
+}
+
+#pq3{
+    color: white;
+    background-color: white;
+    top: 230px;
+    width: 290px;
+    height: 160px;
+}
+
+#pq4{
+    color: white;
+    background-color: white;
+    top: 290px;
+    width: 290px;
+    height: 200px;
+}
