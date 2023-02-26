@@ -65,6 +65,7 @@ div{
     height: 300px;
     padding: 5px;
     position: absolute;
+    box-shadow: 2px 1px 7px black;
 }
 
 #div1{
