@@ -27,3 +27,11 @@ h2{
     width: 300px;
     margin: auto;
 }
+
+a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 0px;
+    margin-left: 10px;
+}
