@@ -29,9 +29,22 @@ h2{
 }
 
 a{
-    display: block;
+    display: inline-block;
     text-decoration: none;
     color: white;
     padding: 0px;
-    margin-left: 10px;
+    margin-left: 25px;
+    text-align: left;
+}
+
+a:hover{
+    color: gray;
+
+}
+
+nav{
+    border: 2px solid white;
+    width: 108px;
+    margin-left: 25px;
+    border-radius: 21px;
 }
