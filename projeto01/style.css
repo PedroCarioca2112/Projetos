@@ -122,3 +122,14 @@ div{
     height: 200px;
     margin-top: 13px;
 }
+
+footer{
+    background-color: white;
+    width: 500px;
+    height: 128px;
+}
+
+footer p{
+    color: black;
+    padding: 5px;
+}
