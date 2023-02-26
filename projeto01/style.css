@@ -123,13 +123,15 @@ div{
     margin-top: 13px;
 }
 
-footer{
+footer div{
     background-color: white;
     width: 500px;
     height: 128px;
+    left: 64px;
 }
 
 footer p{
     color: black;
     padding: 5px;
+
 }
