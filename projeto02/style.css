@@ -10,17 +10,18 @@ body{
     font-size: 14px;
     line-height: 1.5;
     background-color: aquamarine;
-    color: white;
+    color: gray;
 }
 
 header{
-    
+    padding: 5px;
+    background-color: azure;
 }
 
 h1{
-    font-size: 20px;
+    font-size: 33px;
     font-weight: bold;
-    margin: 0px;
+    margin: auto;
     padding: 0px;
     text-align: center;
 }
