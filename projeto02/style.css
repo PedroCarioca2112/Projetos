@@ -25,3 +25,7 @@ h1{
     padding: 0px;
     text-align: center;
 }
+
+a{
+    text-decoration: none;
+}
